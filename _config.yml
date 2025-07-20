@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Clinton Osoro | Cloud Security • IAM • DevSecOps
+title: Clinton Osoro
 email: osoroclinton@gmail.com
 description: >- 
   Building resilient cloud infrastructures and defending identities at scale. 
@@ -60,11 +60,11 @@ author:
   name   : "First Lastname"
   avatar : "/assets/images/profile.jpg"
   bio    : > 
-    Cloud Security Engineer | IAM Specialist | DevSecOps | Python + Terraform  
+    Cloud Security Engineer | IAM Specialist | Python + Terraform  
     Helping orgs secure their cloud—from identity to automation.
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa fa-linkedin"
       url: "https://www.linkedin.com/in/clinton-osoro/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -79,7 +79,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa fa-linkedin"
       url: "https://www.linkedin.com/in/clinton-osoro/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
