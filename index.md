@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
 ---
 
 # 👋 Welcome — I'm Clinton Osoro
