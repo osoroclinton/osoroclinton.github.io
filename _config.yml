@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : > 
     Cloud Security Engineer | IAM Specialist | DevSecOps | Python + Terraform  
     Helping orgs secure their cloud—from identity to automation.
