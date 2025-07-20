@@ -1,9 +1,7 @@
 ---
 layout: home
-author_profile: false
+author_profile: true
 ---
-
-# 👋 Welcome — I'm Clinton Osoro
 
 ## 🧠 Who I Am  
 Cloud Security Engineer (in training) with a background in IT support, IAM, and hands-on infrastructure work. I specialize in **Identity & Access Management (IAM)**, **DevSecOps**, and **compliance automation**, and I’m obsessed with real-world execution, not fluff.
