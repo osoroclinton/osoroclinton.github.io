@@ -6,7 +6,7 @@ author_profile: false
 # 👋 Welcome — I'm Clinton Osoro
 
 ## 🧠 Who I Am  
-Cloud Security Engineer (in training) with a background in IT support, IAM, and hands-on infrastructure work. I specialize in **Identity & Access Management (IAM)**, **DevSecOps**, and **compliance automation**—and I’m obsessed with real-world execution, not fluff.
+Cloud Security Engineer (in training) with a background in IT support, IAM, and hands-on infrastructure work. I specialize in **Identity & Access Management (IAM)**, **DevSecOps**, and **compliance automation**, and I’m obsessed with real-world execution, not fluff.
 
 I’m building this portfolio with **Minimal Mistakes** to publicly showcase my journey from support to security, delivering threat-aware projects using **AWS, Azure, Terraform, OneLogin, and SSO standards** like SAML and OAuth2.
 
@@ -72,6 +72,7 @@ Want to build secure-by-default systems or improve your IAM posture?
 🔗 [LinkedIn](https://www.linkedin.com/in/clinton-osoro-a7623a159)  
 💻 [GitHub](https://github.com/osoroclinton)  
 🌐 [Credly Profile](https://www.credly.com/users/clinton-osoro.65697aee/)
+
 ---
 
 ## 👣 What’s Next  
