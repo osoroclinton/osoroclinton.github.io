@@ -60,8 +60,7 @@ author:
   name   : "First Lastname"
   avatar : "/assets/images/profile.jpg"
   bio    : > 
-    Cloud Security Engineer | IAM Specialist | Python + Terraform  
-    Helping orgs secure their cloud—from identity to automation.
+    Cloud Security Engineer | IAM Specialist | Python + Terraform| 
   links:
     - label: "LinkedIn"
       icon: "fas fa fa-linkedin"
