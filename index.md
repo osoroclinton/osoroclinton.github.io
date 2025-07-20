@@ -68,13 +68,13 @@ To break into **strategic, security-driven cloud roles** by proving my capabilit
 I thrive on blunt feedback, high standards, and strategic collaboration.  
 Want to build secure-by-default systems or improve your IAM posture?
 
-📨 [osoroclinton@gmail.com](mailto:osoroclinton@gmail.com)  
+📨 [Mail](mailto:osoroclinton@gmail.com)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/clinton-osoro-a7623a159) 
 
 💻 [GitHub](https://github.com/osoroclinton)
 
-🌐 [Credly Profile](https://www.credly.com/users/clinton-osoro.65697aee/)) 
+🌐 [Credly Profile](https://www.credly.com/users/clinton-osoro.65697aee/)
 ---
 
 ## 👣 What’s Next  
