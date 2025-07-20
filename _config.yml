@@ -20,7 +20,7 @@ description: >-
   I solve real security problems using Azure, AWS, Python, Terraform, and automation.
 twitter_username: agoti_clinton
 github_username: osoroclinton
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
@@ -57,13 +57,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Clinton Osoro"
   avatar : "/assets/images/profile.jpg"
   bio    : > 
     Cloud Security Engineer | IAM Specialist | Python + Terraform| 
   links:
     - label: "LinkedIn"
-      icon: "fas fa fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/clinton-osoro/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa fa-linkedin"
+      icon: "fab fa=fw fa-linkedin"
       url: "https://www.linkedin.com/in/clinton-osoro/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
