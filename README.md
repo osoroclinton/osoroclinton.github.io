@@ -1,1 +1,1 @@
-# Clinton Osoro Portfolio Wesbite
+# Clinton Osoro Portfolio Website
